@@ -1,5 +1,5 @@
-# Zillow_google_maps_reviews
-Python workflow to get common words and phrases from negative Zillow Group reviews
+# home_depot_google_maps_reviews
+Python workflow to get common words and phrases from negative Home Depot store reviews
 
 ------------------------------
 
