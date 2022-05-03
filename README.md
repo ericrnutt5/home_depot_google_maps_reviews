@@ -23,7 +23,7 @@ Function applied to the Zillow Group.
 
 # Define function for generating common words list.
 This function will generate a list of the most common words (ommiting stopwords) with a word count. 
-Apply this function to the dataframe for the Zillow Group.
+Apply this function to the dataframe for the Home Depot.
 
 ------------------------------
 
